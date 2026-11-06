@@ -1,0 +1,8 @@
+[project]
+name = "lootno1"
+version = "0.1.0"
+description = "按权重把战利品分配给队伍成员"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
